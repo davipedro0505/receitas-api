@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Bolo de Cenoura",
+    "ingredientes": ["cenoura", "açúcar", "farinha", "ovos"],
+    "preco": 15
+  },
+  {
+    "id": 2,
+    "nome": "Feijoada",
+    "ingredientes": ["feijão preto", "carne seca", "linguiça", "arroz"],
+    "preco": 30
+  }
+]
